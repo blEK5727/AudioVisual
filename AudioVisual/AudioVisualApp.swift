@@ -11,7 +11,7 @@ import SwiftUI
 struct AudioVisualApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            EstherInstrument()
         }
     }
 }
